@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm David Okoth 👋
 
-<!--
-**Davey0076/Davey0076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Final Year Bsc. Computer Science student
+** Mobile app developer
+** UI designer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- **Programming Languages:** C, Java, Python
+- **Web Technologies:** HTML, CSS
+- **Databases:** SQL
+- **Tools:** Git
+
+
+
+### Get in Touch
+
+- **Email:** [davidkwnd@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/david-okoth-695901289/]
+
+### Goals
+
+- To continuously learn and improve my skills in software development and UI design.
+- To contribute to open source projects and collaborate with other developers.
+- To develop innovative solutions that have a positive impact on society.
+
+### Let's Connect!
+
+Feel free to reach out if you have any questions, collaboration ideas, or just want to say hi!
