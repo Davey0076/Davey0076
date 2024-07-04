@@ -1,13 +1,13 @@
 # Hi, I'm David Okoth 👋
 
 
-** Final Year Bsc. Computer Science student
+Final Year Bsc. Computer Science student
 
 
-** Mobile app developer
+Mobile app developer
 
 
-** UI designer
+UI designer
 
 
 ### Skills
